@@ -1,0 +1,13 @@
+name: beamfem
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - cpuonly
+  - pytorch
+  - torchaudio
+  - torchvision
+  - matplotlib
+  - numpy
+  - scipy
+  - jupyter
